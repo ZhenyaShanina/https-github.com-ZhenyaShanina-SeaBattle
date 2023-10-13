@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20230715_HW(OOP_SeaBattle)", "20230715_HW(OOP_SeaBattle)\20230715_HW(OOP_SeaBattle).csproj", "{C932A498-C3BA-4517-9517-427EFD3E5643}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "20230715_HW(OOP_SeaBattle)\BL\BL.csproj", "{4B5F72F1-E32F-4016-9460-C8BAF532A43A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C932A498-C3BA-4517-9517-427EFD3E5643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C932A498-C3BA-4517-9517-427EFD3E5643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C932A498-C3BA-4517-9517-427EFD3E5643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C932A498-C3BA-4517-9517-427EFD3E5643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B5F72F1-E32F-4016-9460-C8BAF532A43A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B5F72F1-E32F-4016-9460-C8BAF532A43A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B5F72F1-E32F-4016-9460-C8BAF532A43A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B5F72F1-E32F-4016-9460-C8BAF532A43A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62691CDC-CE09-4AAF-8E3C-0802F5E923B3}
+	EndGlobalSection
+EndGlobal
